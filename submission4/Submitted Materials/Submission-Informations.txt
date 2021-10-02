@@ -1,0 +1,7 @@
+ICPRAM 2022
+
+Title: A Performance Analysis on Patient Severity score based on Supervised and Unsupervised Learning
+Number: 22
+Area: Theory and Methods
+Uploaded on Date/Time: 2021-09-30 4:23:00 PM
+Submission Type: Regular Paper
